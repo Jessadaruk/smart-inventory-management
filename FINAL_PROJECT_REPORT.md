@@ -122,6 +122,6 @@ Prompt แบบ local, พื้นขาว/เทา, sidebar, header, KPI, �
 - [ ] เตรียมสร้าง SKU ใหม่ที่ยังไม่ใช้ เช่น DEMO-20261019
 - [ ] ทดลองเพิ่ม/แก้ไข/เบิก/เก็บถาวร
 - [ ] เปิด Network แสดง GET POST PUT DELETE พร้อม status
-- [ ] เปิดไฟล์ตาม CODE_PRESENTATION_TH และผลทดสอบ
+- [ ] เปิดไฟล์ตาม CODE_WALKTHROUGH_TH และผลทดสอบ
 - [ ] เตรียมตอบเรื่องราคาเป็นสตางค์ สิทธิ์ server และ transaction
 - [ ] ปิดอินเทอร์เน็ตทดสอบหลังติดตั้งและ build หากต้องการสาธิต offline จริง

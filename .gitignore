@@ -18,3 +18,8 @@ docs/**/*.json
 docs/final-audit/
 .DS_Store
 Thumbs.db
+# เอกสารเตรียมสอบส่วนตัว เก็บต้นฉบับไว้ในเครื่องและสำรองนอก repository
+/PRESENTATION_SCRIPT_TH.md
+/TEACHER_QA_TH.md
+/CODE_PRESENTATION_TH.md
+/LIVE_CODING_PRACTICE_TH.md

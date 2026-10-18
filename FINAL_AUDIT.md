@@ -39,8 +39,8 @@
 | สถานะ loading/empty/error | PASS | skeleton, empty text, error, dialog/toast; test 11 ตรวจ empty และข้อความไทยเมื่อ network/JSON ผิด |
 | start.bat | PASS | รันผ่าน cmd.exe จริง Next Ready in 535ms; smoke browser เข้าได้ และ npm start ซ้ำได้ code 1 พร้อมข้อความพอร์ตชน |
 | README ตรง source | PASS | อัปเดตให้ npm test สร้าง .test-data และไม่ reuse demo server; API/roles/archive/หน่วยราคา/คำสั่งตรง source |
-| เอกสารอธิบายโค้ด | PASS | CODE_WALKTHROUGH_TH, CODE_EXPLANATION_TH, CODE_PRESENTATION_TH และ TEACHER_QA_TH อัปเดตชื่อ handleSubmit/abort/test runner |
-| แบบฝึก 10 ข้อ | PASS (ตรวจเอกสาร) | LIVE_CODING_PRACTICE_TH ระบุไฟล์ จุดแก้ เฉลย และวิธีตรวจ เป็นโจทย์ซ้อม ไม่ได้อ้างว่าลงเฉลยทุกข้อในแอปจริง |
+| เอกสารอธิบายโค้ด | PASS | CODE_WALKTHROUGH_TH และ CODE_EXPLANATION_TH อัปเดตชื่อ handleSubmit/abort/test runner; เอกสารเตรียมสอบเก็บส่วนตัวแยกจาก repository |
+| แบบฝึก 10 ข้อ | PASS (ตรวจเอกสาร ณ รอบ audit) | เอกสารซ้อมส่วนตัวระบุไฟล์ จุดแก้ เฉลย และวิธีตรวจ ไม่ได้อ้างว่าลงเฉลยทุกข้อในแอปจริง และไม่รวมใน repository ที่เผยแพร่ |
 | npm audit | WARNING | 8 high, 0 critical; omit dev ยัง 3 high ดูรายละเอียดด้านล่าง |
 | การนำไปเปิดบริการภายนอก | WARNING | ไม่ใช่ penetration/load test; local rate limiter/SQLite/HTTP และ audit warnings ยังมีข้อจำกัด |
 

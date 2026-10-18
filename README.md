@@ -367,12 +367,8 @@ npm audit
 ### เอกสารประกอบ
 
 - [รายงานโครงงานและ ER diagram](FINAL_PROJECT_REPORT.md)
-- [บทนำเสนอภาษาไทย](PRESENTATION_SCRIPT_TH.md)
 - [คำอธิบายโค้ด](CODE_EXPLANATION_TH.md)
-- [ลำดับเปิดโค้ดนำเสนอ](CODE_PRESENTATION_TH.md)
 - [คู่มือไล่โค้ดทีละไฟล์](CODE_WALKTHROUGH_TH.md)
-- [แบบฝึก Live Coding 10 ข้อพร้อมเฉลย](LIVE_CODING_PRACTICE_TH.md)
-- [คำถามอาจารย์และคำตอบ 63 ข้อ](TEACHER_QA_TH.md)
 
 ## 11. ข้อจำกัดของระบบ
 
