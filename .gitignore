@@ -1,0 +1,20 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+test-results/
+playwright-report/
+*.tsbuildinfo
+.test-data/
+*.log
+# หลักฐานดิบเก็บไว้ตรวจในเครื่อง อาจมี absolute path และรายละเอียดระบบ
+docs/**/*.txt
+docs/**/*.json
+docs/final-audit/
+.DS_Store
+Thumbs.db
